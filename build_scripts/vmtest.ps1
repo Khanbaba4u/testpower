@@ -1,1 +1,1 @@
-Start-AzureRmVM -ResourceGroupName "az104-04-rg1" -Name "KhanVm"
+Start-AzVM -ResourceGroupName "az104-04-rg1" -Name "KhanVm"
